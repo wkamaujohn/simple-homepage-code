@@ -1,0 +1,148 @@
+<!doctype html>
+<html lang="en">
+    <head>
+    <meta charset="utf-8">
+        <title>HOME PAGE</title>
+    <link rel="stylesheet" href="product/servicestyle.css">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+
+        <link rel="stylesheet"href="indexstyle.css">
+
+    </head>   
+    
+    <body>
+        
+        <div class="nav">
+                <li><a href="index.html">HOME</a></li>
+                
+        
+        </div>
+        
+            <header>
+                <div class="wrapper">
+
+        <img src="logo.jpg"height="100px"width="100px" >
+
+        <div class="logo">COLOMBIANA UNIVERSITY
+            <br>The epitome of excellence</div>
+            
+
+         <ul class="nav">
+            <li><a href ="index.html">HOME</a></li>
+            <li><a href ="students.html">STUDENTS</a></li>
+            <li><a href ="sports.html">SPORTS</a></li>
+            <li><a href ="courses.html">COURSES</a></li>
+            
+        </ul>
+        </div>
+   
+        
+        </div>
+        
+        <div class="services-text">
+        
+        <br>
+        <br>
+        <br>
+        <br>
+        <b>
+            <FONT color="white">
+                <center>
+            <h1>WELCOME TO COLOMBIANA UNIVERSITY!
+            </h1>
+            <h3>WE ARE THE LEADING UNIVERSITY IN EAST AND CENTRAL AFRICA AND TAKE PRIDE IN PROVIDING TOP NOTCH EDUCATION AND SUPPORTING CO CURRICULARS</h3>
+                </center>
+
+            <BR> <BR> 
+
+            <h1>OUR MISSION</h1>
+            <h3>To educate the citizens and citizen-leaders for our society</h3>
+            <br>
+
+            <H1> OUR VISION</H1>
+            <H3>To set the standard for residential liberal arts and sciences education in Africa and beyond</H3>
+            <br>
+
+            <h1>OUR ADDRESS</h1>
+            <P>CALL US ON: 020 374 7863</P>
+            <P>P.O BOX,</P>
+                <P>23355 NAIROBI</P>
+            <a href="mailto:frontdesk.colombiana@colombiana.ac.ke">  Email us</a>
+            <P> Or visit our main campus at Ruiru along Thika road.
+                <BR>
+                <img src="location.jpg"height="100px"width="100px" ><BR>
+                <a href="https://goo.gl/maps/8arsDX9kXMT66Qju9">LINK TO GOOGLE MAP</a>
+
+            <center>
+                <h1>MANAGEMENT</h1>
+                <H3>Our management is one of the largest in the Sub saharan africa and it is certainly the most diverse in terms of the range of research, teaching and impact undertaken by its faculty. Through pursuing excellence in research and education, the management is committed to being one of the best around the world where management academics can stay and thrive. </H3>
+
+            </center>
+            <BR>
+
+             <center>
+                <h1>FACILITIES</h1>
+                <h3>From sports facilities to teaching spaces and laboratories, we're investing in our facilities to improve the experience we deliver to our students, academic and researchers, our partners in business, and the local community.
+Our undergraduates can access the latest equipment during their studies. There's also academic and personal support available to help them make the most of their time with us.</h3>
+            </center>
+            <BR>
+
+<center>
+            <H1>HOW TO APPLY.</H1>
+</center>
+        
+                <p align=right>1. Complete the online application form
+
+Apply for a course through its dedicated course page. You can also apply to study our modules individually in many cases.</p>
+<br>
+
+<p align=right>2. Submit the application form
+
+Remember to attach any available documents we need and if applicable pay any application fee. We won't be able to process your application fully until we have received everything we need. However, you can still apply whilst you gather outstanding documentation. We will then write to you requesting this evidence.
+
+To apply for your prior learning to be accredited, please complete the relevant section on the application form.</p><br>
+
+<p align=right>3. Await our response
+
+We acknowledge your application by email within 24 hours. This includes a student reference number in case you need to contact us about your application.</p><br>
+<p align=right>4. Register online and pay course fees</p><br>
+
+<p align=right>You have until the registration deadline to accept an offer and pay your initial fees. We send you your study materials as soon as they become available.</p>
+           
+
+
+        </b>
+        </FONT>
+        
+        </div>
+         </header>
+       
+        
+<script type="text/javascript">
+    
+    function openFunction(){
+        
+        document.getElementById("menu").style.width="300px";
+        document.getElementById("mainbox").style.marginLeft="300px";
+        document.getElementById("mainbox").innerHTML="";
+        
+    }
+    
+     function closeFunction(){
+        
+        document.getElementById("menu").style.width="0px";
+        document.getElementById("mainbox").style.marginLeft="0px";
+         document.getElementById("mainbox").innerHTML="&#9776; SERVICE MENU";
+    }
+        
+        
+        
+        </script>
+
+    
+        
+        
+        
+    </body>
+</html>.
